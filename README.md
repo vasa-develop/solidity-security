@@ -1,3 +1,5 @@
+This is a draft of [Article Published on HackerNoon](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148) by [vasa](https://medium.com/@vaibhavsaini_67863). You can generate a Pull request to suggest changes in the article.
+
 # solidity-security
 
 HackPedia: 16 Solidity Hacks/Vulnerabilities, their Fixes and Real World Examples
