@@ -1,3 +1,9 @@
+This is a slight modification of the article published by Adrian Manning
+entitled [Solidity Security: Comprehensive list of known attack vectors and
+common anti-patterns](https://blog.sigmaprime.io/solidity-security.html) at
+[Sigma Prime](https://sigmaprime.io). The original repository can be found at
+[solidity-security-blog](https://github.com/sigp/solidity-security-blog). 
+
 This is a draft of [Article Published on HackerNoon](https://hackernoon.com/hackpedia-16-solidity-hacks-vulnerabilities-their-fixes-and-real-world-examples-f3210eba5148) by [vasa](https://medium.com/@vaibhavsaini_67863). You can generate a Pull request to suggest changes in the article.
 
 # solidity-security
